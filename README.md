@@ -1,1 +1,1 @@
-# basic_html_and_css
+# some html tags with css using different selectors, different way of handling boxes, with attributes, inline, came file out of file css different ways of loading images basics of box model, missing grid layout and other stuff and more specific selectors for playing purpose for html and css
