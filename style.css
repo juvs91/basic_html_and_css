@@ -67,3 +67,11 @@ aside {
   float: left;
 }
 
+blockquote {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  display: block;
+  background-color: burlywood;
+}
+
